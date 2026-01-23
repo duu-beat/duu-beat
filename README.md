@@ -1,28 +1,32 @@
-<table>
-  <tr>
-    <td width="65%" valign="center">
-      <h1>  Olá, me chamo Eduardo </h1>
-      <p>🎓 <b>Estudante de Tecnologia da Informação</b></p>
-      <p>💻 <b>Desenvolvedor Front-end</b> apaixonado por criar interfaces modernas e dinâmicas, mas que também coloca a mão na massa no <b>Back-end</b> para construir sistemas robustos e completos.</p>
-      <p>🚀 Atualmente focado no ecossistema <b>React/TypeScript</b> para o Front-end, utilizando <b>Laravel/Java/PHP</b> para soluções de Back-end.</p>
-      <p>📫 <b>Conecte-se comigo:</b></p>
-      <div>
-        <a href="https://www.linkedin.com/in/eduardosilvadealmeida" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
-        <a href="https://www.instagram.com/duu_beat" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-        </a>
-        <a href="https://twitter.com/duu_beat" target="_blank">
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
-        </a>
-      </div>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://ui-avatars.com/api/?name=E&background=0D1117&color=F7DF1E&size=400&font-size=0.7&rounded=true&bold=true" width="85%" alt="Inicial E" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">👋 Olá, me chamo Eduardo</h1>
+
+<p align="center">
+🎓 <b>Estudante de Tecnologia da Informação</b><br>
+💻 <b>Desenvolvedor Front-end</b> apaixonado por interfaces modernas e dinâmicas, mas que também coloca a mão na massa no <b>Back-end</b> para criar sistemas robustos e completos.<br>
+🚀 Focado em <b>React / TypeScript</b> no Front-end e <b>Laravel / Java / PHP</b> no Back-end.
+</p>
+
+<p align="center">
+  <img 
+    src="https://ui-avatars.com/api/?name=E&background=0D1117&color=F7DF1E&size=300&font-size=0.7&rounded=true&bold=true" 
+    width="200" 
+    alt="Inicial E"
+  />
+</p>
+
+<p align="center"><b>📫 Conecte-se comigo:</b></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardosilvadealmeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/duu_beat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/duu_beat" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
 ---
 
