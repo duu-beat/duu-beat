@@ -1,18 +1,13 @@
-<h1 align="center">👋 Olá, me chamo Eduardo</h1>
+<h1 align="center">👋 Olá, eu sou o Eduardo</h1>
+
 
 <p align="center">
-🎓 <b>Estudante de Tecnologia da Informação</b><br>
-💻 <b>Desenvolvedor Front-end</b> apaixonado por interfaces modernas e dinâmicas, mas que também coloca a mão na massa no <b>Back-end</b> para criar sistemas robustos e completos.<br>
-🚀 Focado em <b>React / TypeScript</b> no Front-end e <b>Laravel / Java / PHP</b> no Back-end.
+🎓 Formado em <b>Tecnologia da Informação</b><br>
+💻 Desenvolvedor <b>Front-end</b> focado em interfaces modernas, rápidas e bem pensadas<br>
+🛠️ Também atuo no <b>Back-end</b>, criando sistemas sólidos e funcionais<br>
+🚀 Stack principal: <b>React • TypeScript • Laravel • Java • PHP</b>
 </p>
 
-<p align="center">
-  <img 
-    src="https://ui-avatars.com/api/?name=E&background=0D1117&color=F7DF1E&size=300&font-size=0.7&rounded=true&bold=true" 
-    width="200" 
-    alt="Inicial E"
-  />
-</p>
 
 <p align="center"><b>📫 Conecte-se comigo:</b></p>
 
@@ -48,7 +43,7 @@ Quando não estou codando, provavelmente estou:
 
 ## 🎓 Formação
 
-* 📚 **Técnico em Tecnologia da Informação** – Foco em Desenvolvimento de Sistemas e Infraestrutura (Em andamento).
+* 📚 **Técnico em Tecnologia da Informação** – Foco em Desenvolvimento de Sistemas e Infraestrutura (Concluído).
 * 💻 **Desenvolvimento Web Fullstack** – Especialização em arquitetura de sistemas com PHP (Laravel) e interfaces modernas com React/TypeScript.
 * 🗄️ **Gestão de Banco de Dados** – Sólida base em modelagem relacional, queries avançadas e manutenção de bancos MySQL e PostgreSQL.
 * 🛠️ **Engenharia de Software** – Prática em lógica de programação, algoritmos, metodologias ágeis e controle de versão com Git.
